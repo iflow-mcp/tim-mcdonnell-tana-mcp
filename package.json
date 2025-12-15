@@ -1,5 +1,5 @@
 {
-  "name": "tana-mcp",
+  "name": "@iflow-mcp/tana-mcp",
   "version": "1.2.0",
   "description": "A Model Context Protocol (MCP) server for Tana",
   "main": "dist/index.js",
@@ -28,13 +28,13 @@
   ],
   "author": "Tim McDonnell",
   "license": "MIT",
-  "type": "commonjs",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tim-mcdonnell/tana-mcp.git"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@modelcontextprotocol/sdk": "^1.24.3",
     "axios": "^1.7.7",
     "typescript": "^5.6.3",
     "zod": "^3.23.8"
