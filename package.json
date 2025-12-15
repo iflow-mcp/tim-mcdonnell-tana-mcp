@@ -1,5 +1,5 @@
 {
-  "name": "@iflow-mcp/tana-mcp",
+  "name": "@iflow-mcp/tana-mcp-iflow",
   "version": "1.2.0",
   "description": "A Model Context Protocol (MCP) server for Tana",
   "main": "dist/index.js",
